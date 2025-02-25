@@ -9,5 +9,5 @@ This project uses an LM35 temperature sensor, a fan, and an LED to create an aut
 ## Technologies Used
 - Python
 - Arduino C
-- Data Visualization (Matplotlib)
+
 
